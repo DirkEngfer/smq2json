@@ -1,3 +1,7 @@
+# Input Data File for script: smq_content.txt
+# Output JSON formatted File: smq_content.json
+
+
 import os, json
 
 def makejson(mygraphLT, graphlen):
