@@ -1,0 +1,4 @@
+{"TermCategory_I": [{"TermcodeList": [{"TermCode": 10042893}, {"TermCode": 88888888}]}, {"TermWeight": 3}],
+"TermCategory_H": [{"TermcodeList": [{"TermCode": 10018910}, {"TermCode": 88888888}]}, {"TermWeight": 3}],
+"patient": 301,
+"TermCategory_G": [{"TermcodeList": [{"TermCode": 10034759}, {"TermCode": 88888888}]}, {"TermWeight": 2}]}
